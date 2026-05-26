@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College News Website</title>
+</head>
+
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>College News</h1>
+        <p>Campus Updates and Announcements</p>
+    </header>
+
+    <!-- Main Section -->
+    <main>
+
+        <!-- News Articles -->
+        <section>
+
+            <article>
+                <h2>Tech Fest 2026</h2>
+                <p>The annual college tech fest will be held next Saturday.</p>
+            </article>
+
+            <article>
+                <h2>Campus Placement Drive</h2>
+                <p>Top companies are visiting the college for placements this week.</p>
+            </article>
+
+            <article>
+                <h2>Semester Exam Notice</h2>
+                <p>Semester examinations will begin from next month.</p>
+            </article>
+
+        </section>
+
+        <!-- Sidebar -->
+        <aside>
+
+            <h2>Upcoming Events</h2>
+
+            <ul>
+                <li>Cultural Fest</li>
+                <li>Hackathon</li>
+                <li>Workshop on AI</li>
+            </ul>
+
+        </aside>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2026 College News Website</p>
+    </footer>
+
+</body>
+
+</html>
